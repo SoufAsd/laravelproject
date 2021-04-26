@@ -1,0 +1,32 @@
+<?php
+
+return [
+
+'Tarif Plan Agency'       =>  'Agence du plan tarifaire',
+'name'       =>  'Nom',
+'Amount'       =>  'montant',
+'Max Users'       =>  ' Max utilisateurs',
+'Ref exclusif'       =>  'Ref exclusif',
+'Action'       =>  'Action',
+'Tarif Plan Promotors'       =>  'Promoteurs du plan tarifaire',
+'User Supp Price'       =>  'Prix Supp Utilisateur',
+'Show'       =>  'Voir',
+'Relex province locale'       =>  'Relex province locale',
+'Relex province supp'       =>  'Relex province supp',
+'Report stat marche'       =>  'Signaler stat marche',
+'Report stat property'       =>  'Signaler la propriété stat',
+'Export'       =>  'Exportation',
+'Log report'       =>  'Rapport de journal',
+'Max Actif Projetc'       =>  'Projet Max Actif',
+'Max Actif Items'       =>  'Articles Max Actif',
+'Diff Property Amount'       =>  'Montant de la propriété Diff',
+'Report Stat Promotor'       =>  'Rapport Stat Promotor',
+'Archived Properties'       =>  'Propriétés archivées',
+'Relex'       =>  'Relex',
+'Import'       =>  'Importation',
+'Log Report'       =>  'Rapport de journal',
+''       =>  '',
+''       =>  '',
+''       =>  '',
+''       =>  '',
+];
